@@ -41,7 +41,7 @@ max-height:90%;
 .text {
 font-size: 20px;
 margin:center ;
-transform:translateX(200%);
+transform:translateX(220%);
 font-family: 'Courier New', Courier, monospace;
 }
 table {
@@ -83,5 +83,10 @@ th {
 }
 .color-text {
     color: white;
-    size: 300px;
+    font-size:  x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.font-text {
+    font-size:  x-large;
+    font-family: 'Courier New', Courier, monospace;
 }
